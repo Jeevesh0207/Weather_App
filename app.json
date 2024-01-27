@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Weather_App",
+    "name": "WeatherApp",
     "slug": "Weather_App",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.WeatherApp.WeatherApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d098e9d7-d992-4053-8022-23455046b8cb"
+      }
     }
   }
 }
