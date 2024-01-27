@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./assets/icon.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>Weather App</h1>
-    <p>Introducing Melody Music, your ultimate destination for an immersive and limitless music experience on Android! Immerse yourself in a world of unlimited tunes, seamlessly curated for your every mood and moment.</p>
+    <p>Harmony Weather : A Beautiful and Elevated Weather Experience</p>
 </div>
 
 ---
@@ -16,7 +16,12 @@
 </p>
 
 ## 🎵 Features
-
+- Current Weather Status 🌦️
+- Today's Forecast ☀️🌧️🌬️
+- Tomorrow's Forecast 📆
+- Next Day Forecast 🔄
+- 24-Hour Report ⏰📊
+- Search Functionality 🔍🌍
 
 ## Download
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
